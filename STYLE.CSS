@@ -1,0 +1,14 @@
+body {
+    font-family: Verdana;
+    font-size: 20px;
+    background-color: #ffd058;
+    color: #000000;
+    margin: 100px;
+    line-height: 1;
+    text-align: center;
+}
+
+h1 {
+    color: #000000; 
+    text-align: center;
+    padding-bottom: 10px;
